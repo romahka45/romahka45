@@ -1,2 +1,4 @@
 print('Привет мир')
-print('Пsdfghривет мир')
+
+x = 7
+print(x)
