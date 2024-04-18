@@ -1,1 +1,1 @@
-print('Привет миadrsр')ds
+print('Привет миadrsр')dskp
