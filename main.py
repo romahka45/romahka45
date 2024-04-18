@@ -1,1 +1,1 @@
-print('Привет миadrsр')
+print('Привет миadrsр')d
